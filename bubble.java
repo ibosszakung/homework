@@ -1,5 +1,9 @@
 package th.ac.utcc.Panupong;
-
+/**
+ * 
+ * @author 5907101014 Panupong Bunniyoom
+ *
+ */
 public class bubble {
 	private double [] element;
 	private int eSize;
